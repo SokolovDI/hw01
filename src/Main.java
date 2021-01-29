@@ -39,7 +39,6 @@ public class Main {
             System.out.println("Число: " + a + " - отрицательное!");
         }
     }
-
     static boolean doSix (int a){
         if (a < 0) {
             return true;
